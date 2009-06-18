@@ -1,13 +1,16 @@
-==tegu_labs
+== Tegu Labs
 
-Descripion goes here.
+So, this is the collaboration part of Tegu.  The basic components:
 
-==Usage
+== Installation
 
-==Installation
+sudo gem install davidrichards-tegu_labs
 
 === Dependencies
 
-==COPYRIGHT
+* log4r (sudo gem install log4r)
+* god (sudo gem install god)
+
+== COPYRIGHT
 
 Copyright (c) 2009 David Richards. See LICENSE for details.
